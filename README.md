@@ -1,8 +1,5 @@
-//************************
-// Michael Meluso
-//
-// MUA - Mail User Agent
-//************************
+MUA - Mail User Agent
+
 
 Sends email when supplied with mail server, to address, from address, subject, and message.
 Main: MailClient
